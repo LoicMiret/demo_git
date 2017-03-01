@@ -5,4 +5,4 @@ Une démo de Git qui se passe bien
 
 Et maintenant on modifie depuis GitHub
 
-Méais aussi depuis ma machine
+Mais aussi depuis ma machine c'est cool
